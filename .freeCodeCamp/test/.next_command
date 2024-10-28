@@ -117,3 +117,4 @@ echo
 echo $LANg
 echo $LANG
 declare -p
+echo $RANDOM
