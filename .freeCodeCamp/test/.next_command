@@ -157,3 +157,4 @@ $ [[ $NUMBER -le 30 ]]
 touch fortune.sh
 chmod +x fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
