@@ -116,3 +116,4 @@ printenv
 echo
 echo $LANg
 echo $LANG
+declare -p
