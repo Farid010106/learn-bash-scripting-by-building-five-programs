@@ -123,3 +123,4 @@ echo $RANDOM
 ./bingo.sh
 I=
 I=0
+echo $I
