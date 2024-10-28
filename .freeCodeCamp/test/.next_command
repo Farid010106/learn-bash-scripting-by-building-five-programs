@@ -131,3 +131,6 @@ help let
 echo
 echo I
 echo $I
+(( I + 4 ))
+$(( I + $ ))
+$(( I + 4 ))
