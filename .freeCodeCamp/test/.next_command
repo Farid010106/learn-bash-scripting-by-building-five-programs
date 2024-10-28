@@ -162,3 +162,5 @@ echo ${ARR[1]}
 echo ${ARR[@]}
 declare -p ARR
 ./fortune.sh
+git status
+git add .
