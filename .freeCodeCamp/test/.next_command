@@ -50,3 +50,5 @@ echo ~~help
 echo --help
 man echo
 ./questionnaire.sh
+./questionanire.sh
+./questionnaire.sh
