@@ -149,3 +149,6 @@ NUMBER=$(( RANDOM % 75 + 1 ))
 ./bingo.sh
 ./bingo.sh
 help let
+help test
+$ [[ $NUMBER -le 30 ]]
+[[ $NUMBER -le 30 ]]
