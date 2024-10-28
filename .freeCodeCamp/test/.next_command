@@ -152,3 +152,5 @@ help let
 help test
 $ [[ $NUMBER -le 30 ]]
 [[ $NUMBER -le 30 ]]
+./bingo.sh
+./bingo.sh
