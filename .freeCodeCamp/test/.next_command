@@ -156,3 +156,4 @@ $ [[ $NUMBER -le 30 ]]
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+./fortune.sh
